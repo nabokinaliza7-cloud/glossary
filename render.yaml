@@ -8,3 +8,5 @@ services:
       packages:
         - ffmpeg
         - libavcodec-extra
+        - libasound2-dev
+        - libpulse-dev
